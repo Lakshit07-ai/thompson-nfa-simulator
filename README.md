@@ -35,7 +35,7 @@ Atom          → SYMBOL | '(' RE ')' | ε | ∅
 ## Quick Start
 
 ```bash
-cd AutomataLab
+cd thompson-nfa-simulator
 npm install
 npm run dev
 ```
