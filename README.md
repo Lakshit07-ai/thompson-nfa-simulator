@@ -1,4 +1,4 @@
-# AutomataLab
+# thompson-nfa-simulator
 
 **Interactive Regular Expression → ε-NFA Simulator using Thompson's Construction**
 
